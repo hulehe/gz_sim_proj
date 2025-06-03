@@ -1,0 +1,1 @@
+export GZ_SIM_RESOURCE_PATH=$HOME/sim_proj/models:$GZ_SIM_RESOURCE_PATH
